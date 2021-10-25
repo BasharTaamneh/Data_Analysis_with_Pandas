@@ -1,6 +1,6 @@
 # Data Analysis with Pandas
 
-## **Live PR URL** [link1]()
+## **Live PR URL** [link1](https://github.com/BasharTaamneh/Data_Analysis_with_Pandas/pull/1)
 
 
 ## Requirment
@@ -9,7 +9,7 @@
 poetry
 python 3.9.7
 pandas
-jupyterlab
+jupyterlab  
 ```
 
 ## Getting started
